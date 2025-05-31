@@ -83,7 +83,7 @@
                             @endif
 
                             <div class="text-center mb-4">
-                                <h2 class="fw-bold text-white mb-2">🗂️ To-Do-List Baihaqi</h2>
+                                <h2 class="fw-bold text-white mb-2">🗂️ To_Do_List Baihaqi</h2>
                                 <p class="text-light">Masuk ke akun Anda</p>
                             </div>
 
